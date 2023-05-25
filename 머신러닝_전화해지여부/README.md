@@ -4,4 +4,4 @@
 <br/>
 https://dacon.io/competitions/official/236075/overview/description
 <br/><br/>
-현호님, 승민님, 다예님, 용현님과 데이콘 데이터를 바탕으로 전화해지여부 머신러닝 프로젝트 진행.
+데이콘 데이터를 바탕으로 전화해지여부 머신러닝 프로젝트 진행.
